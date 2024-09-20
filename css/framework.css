@@ -282,6 +282,11 @@
     position: absolute;
 }
 
+.p-sticky {
+    position: sticky;
+    top: 0;
+}
+
 /* End Position */
 
 /* Start text-align */
